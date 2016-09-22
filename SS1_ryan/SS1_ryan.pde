@@ -1,0 +1,11 @@
+size(1080, 720);
+background(0,0,0);
+noFill();
+stroke(100);
+strokeWeight(50);
+arc(400, 400, 400, 300, -PI / 2, PI / 2);
+arc(700, 400, 400, 300, PI / 2, 3 * PI / 2);
+strokeWeight(30);
+rect(300, 100, 500, 500);
+textSize(80);
+text("CHANEL",400, 200);
